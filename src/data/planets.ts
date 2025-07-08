@@ -23,9 +23,9 @@ export const planets: PlanetData[] = [
     description:
       "Third planet from the Sun and the only known planet to harbor life. About 29.2% of Earth's surface is land with remaining 70.8% is covered with water. Earth's distance from the Sun, physical properties and geological history have allowed life to evolve and thrive.",
     images: {
-      overview: "src/assets/planet-earth.svg",
-      structure: "src/assets/planet-earth-internal.svg",
-      geology: "src/assets/geology-earth.png"
+      overview: "/planet-app/assets/planet-earth.svg",
+      structure: "/planet-app/assets/planet-earth-internal.svg",
+      geology: "/planet-app/assets/geology-earth.png"
     },
     source: "https://en.wikipedia.org/wiki/Earth",
     stats: [
@@ -40,9 +40,9 @@ export const planets: PlanetData[] = [
     description:
       "Mercury is the smallest planet in our solar system and closest to the Sun. It's only slightly larger than Earth's Moon and has a very thin atmosphere.",
     images: {
-      overview: "src/assets/planet-mercury.svg",
-      structure: "src/assets/planet-mercury-internal.svg",
-      geology: "src/assets/geology-mercury.png"
+      overview: "/planet-app/assets/planet-mercury.svg",
+      structure: "/planet-app/assets/planet-mercury-internal.svg",
+      geology: "/planet-app/assets/geology-mercury.png"
     },
     source: "https://en.wikipedia.org/wiki/Mercury_(planet)",
     stats: [
@@ -57,9 +57,9 @@ export const planets: PlanetData[] = [
     description:
       "Venus is the second planet from the Sun and is Earth's closest planetary neighbor. It's one of the four inner, terrestrial (or rocky) planets, and it's often called Earth's twin because it's similar in size and density.",
     images: {
-      overview: "src/assets/planet-venus.svg",
-      structure: "src/assets/planet-venus-internal.svg",
-      geology: "src/assets/geology-venus.png"
+      overview: "/planet-app/assets/planet-venus.svg",
+      structure: "/planet-app/assets/planet-venus-internal.svg",
+      geology: "/planet-app/assets/geology-venus.png"
     },
     source: "https://en.wikipedia.org/wiki/Venus",
     stats: [
@@ -74,9 +74,9 @@ export const planets: PlanetData[] = [
     description:
       "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. It is often referred to as the 'Red Planet' due to its reddish appearance.",
     images: {
-      overview: "src/assets/planet-mars.svg",
-      structure: "src/assets/planet-mars-internal.svg",
-      geology: "src/assets/geology-mars.png"
+      overview: "/planet-app/assets/planet-mars.svg",
+      structure: "/planet-app/assets/planet-mars-internal.svg",
+      geology: "/planet-app/assets/geology-mars.png"
     },
     source: "https://en.wikipedia.org/wiki/Mars",
     stats: [
@@ -91,9 +91,9 @@ export const planets: PlanetData[] = [
     description:
       "Jupiter is the largest planet in our solar system and is known for its Great Red Spot, a giant storm. It is a gas giant and has a very strong magnetic field.",
     images: {
-      overview: "src/assets/planet-jupiter.svg",
-      structure: "src/assets/planet-jupiter-internal.svg",
-      geology: "src/assets/geology-jupiter.png"
+      overview: "/planet-app/assets/planet-jupiter.svg",
+      structure: "/planet-app/assets/planet-jupiter-internal.svg",
+      geology: "/planet-app/assets/geology-jupiter.png"
     },
     source: "https://en.wikipedia.org/wiki/Jupiter",
     stats: [
@@ -108,9 +108,9 @@ export const planets: PlanetData[] = [
     description:
       "Saturn is the sixth planet from the Sun and is famous for its beautiful rings. It is a gas giant and the second-largest planet in our solar system.",
     images: {
-      overview: "src/assets/planet-saturn.svg",
-      structure: "src/assets/planet-saturn-internal.svg",
-      geology: "src/assets/geology-saturn.png"
+      overview: "/planet-app/assets/planet-saturn.svg",
+      structure: "/planet-app/assets/planet-saturn-internal.svg",
+      geology: "/planet-app/assets/geology-saturn.png"
     },
     source: "https://en.wikipedia.org/wiki/Saturn",
     stats: [
@@ -125,9 +125,9 @@ export const planets: PlanetData[] = [
     description:
       "Uranus is the seventh planet from the Sun. It has a blue-green color due to methane in its atmosphere and rotates on its side compared to other planets.",
     images: {
-      overview: "src/assets/planet-uranus.svg",
-      structure: "src/assets/planet-uranus-internal.svg",
-      geology: "src/assets/geology-uranus.png"
+      overview: "/planet-app/assets/planet-uranus.svg",
+      structure: "/planet-app/assets/planet-uranus-internal.svg",
+      geology: "/planet-app/assets/geology-uranus.png"
     },
     source: "https://en.wikipedia.org/wiki/Uranus",
     stats: [
@@ -142,9 +142,9 @@ export const planets: PlanetData[] = [
     description:
       "Neptune is the eighth and farthest known planet from the Sun in the Solar System. It is a deep blue color and is known for its strong winds.",
     images: {
-      overview: "src/assets/planet-neptune.svg",
-      structure: "src/assets/planet-neptune-internal.svg",
-      geology: "src/assets/geology-neptune.png"
+      overview: "/planet-app/assets/planet-neptune.svg",
+      structure: "/planet-app/assets/planet-neptune-internal.svg",
+      geology: "/planet-app/assets/geology-neptune.png"
     },
     source: "https://en.wikipedia.org/wiki/Neptune",
     stats: [
